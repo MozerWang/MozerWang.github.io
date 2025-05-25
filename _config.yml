@@ -25,11 +25,8 @@ author:
   avatar           : "profile.JPG"
   name             : "Minzheng Wang"
   pronouns         : # example: "she/her"  
-  bio              : "CASIA & BIT"
+  bio              : "Ph.D student at the Institute of Automation, Chinese Academy of Sciences (CASIA)."
   location         : "Beijing, China"
-  employer         : |
-    Institute of Automation,
-    Chinese Academy of Sciences
   uri              : # URL
   email            : "wangminzheng2023@ia.ac.cn" 
 

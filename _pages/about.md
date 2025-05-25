@@ -37,54 +37,50 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 **<ins>Minzheng Wang</ins>**, Yongbin Li, Haobo Wang, Xinghua Zhang, Nan Xu, Bingli Wu, Fei Huang, Haiyang Yu, Wenji Mao  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2505.02156) [[code]](https://github.com/MozerWang/AMPO)
 
-**DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling**
-**<ins>Minzheng Wang</ins>**, Xinghua Zhang, Kun Chen, Nan Xu, Haiyang Yu, Fei Huang, Wenji Mao, Yongbin Li
+**DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling**  
+**<ins>Minzheng Wang</ins>**, Xinghua Zhang, Kun Chen, Nan Xu, Haiyang Yu, Fei Huang, Wenji Mao, Yongbin Li  
 Findings of ACL 2025. [[link]](https://arxiv.org/abs/2412.04905) [[code]](https://github.com/MozerWang/DEMO)
 
 **Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA**  
-**<ins>Minzheng Wang</ins>**, Longze Chen, Cheng Fu, Shengyi Liao, Xinghua Zhang, Bingli Wu, Haiyang Yu, Nan Xu, Lei Zhang, Run Luo, Yunshui Li, Min Yang, Fei Huang, Yongbin Li
+**<ins>Minzheng Wang</ins>**, Longze Chen, Cheng Fu, Shengyi Liao, Xinghua Zhang, Bingli Wu, Haiyang Yu, Nan Xu, Lei Zhang, Run Luo, Yunshui Li, Min Yang, Fei Huang, Yongbin Li  
 Proceedings of EMNLP 2024 (Oral). [[link]](https://aclanthology.org/2024.emnlp-main.322/) [[code]](https://github.com/MozerWang/Loong)
 
-**PromISe: Releasing the Capabilities of LLMs with Prompt Introspective Search**
-**<ins>Minzheng Wang</ins>**, Nan Xu, Jiahao Zhao, Yin Luo, Wenji Mao
+**PromISe: Releasing the Capabilities of LLMs with Prompt Introspective Search**  
+**<ins>Minzheng Wang</ins>**, Nan Xu, Jiahao Zhao, Yin Luo, Wenji Mao  
 Proceedings of COLING 2024 (Oral). [[link]](https://aclanthology.org/2024.lrec-main.1149/) [[code]](https://github.com/MozerWang/promISe)
 
 ### Other Papers
-**ImaRA: An Imaginative Frame Augmented Method for Low-Resource Multimodal Metaphor Detection and Explanation**
-Yuan Tian, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao
+**ImaRA: An Imaginative Frame Augmented Method for Low-Resource Multimodal Metaphor Detection and Explanation**  
+Yuan Tian, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao  
 Findings of NAACL 2025. [[link]](https://aclanthology.org/2025.findings-naacl.220/)
 
-**Enhancing Adversarial Robustness of LLMs with Analytic Hierarchy Process**
-Jiahao Zhao, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao
+**Enhancing Adversarial Robustness of LLMs with Analytic Hierarchy Process**  
+Jiahao Zhao, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao  
 Proceedings of COLM 2024. [[link]](https://openreview.net/forum?id=DMUGTMWrKZ#discussion)
 
-**Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs**
-Lei Zhang, Yunshui Li, Jiaming Li, Xiaobo Xia, Jiaxi Yang, Run Luo, **<ins>Minzheng Wang</ins>**, Longze Chen, Junhao Liu, Min Yang
+**Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs**  
+Lei Zhang, Yunshui Li, Jiaming Li, Xiaobo Xia, Jiaxi Yang, Run Luo, **<ins>Minzheng Wang</ins>**, Longze Chen, Junhao Liu, Min Yang  
 Proceedings of AAAI 2025. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/34782) [[code]](https://github.com/Hambaobao/HCP-Coder)
 
-**The imperative of conversation analysis in the era of llms: A survey of tasks, techniques, and trends**
-Xinghua Zhang, Haiyang Yu, Yongbin Li, **<ins>Minzheng Wang</ins>**, Longze Chen, Fei Huang
+**The imperative of conversation analysis in the era of llms: A survey of tasks, techniques, and trends**  
+Xinghua Zhang, Haiyang Yu, Yongbin Li, **<ins>Minzheng Wang</ins>**, Longze Chen, Fei Huang  
 Arxiv 2024. [[link]](https://arxiv.org/abs/2409.14195)
 
-**Mmevol: Empowering multimodal large language models with evol-instruct**
-Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, **<ins>Minzheng Wang</ins>**, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li
+**Mmevol: Empowering multimodal large language models with evol-instruct**  
+Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, **<ins>Minzheng Wang</ins>**, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li  
 Findings of ACL 2025. [[link]](https://arxiv.org/abs/2409.05840) [[code]](https://github.com/RainBowLuoCS/MMEvol)
 
-**Yayi-uie: A chat-enhanced instruction tuning framework for universal information extraction**
-Xinglin Xiao, Yijie Wang, Nan Xu, Yuqi Wang, Hanxuan Yang, **<ins>Minzheng Wang</ins>**, Yin Luo, Lei Wang, Wenji Mao, Daniel Zeng
+**Yayi-uie: A chat-enhanced instruction tuning framework for universal information extraction**  
+Xinglin Xiao, Yijie Wang, Nan Xu, Yuqi Wang, Hanxuan Yang, **<ins>Minzheng Wang</ins>**, Yin Luo, Lei Wang, Wenji Mao, Daniel Zeng  
 Arxiv 2023. [[link]](https://arxiv.org/abs/2312.15548)
  
 # Services 🎙️
-Reviewer for ACL ARR, NLPCC, IEEE Intelligent Systems
+Reviewer for ACL ARR (2025), NLPCC (2025), IEEE Intelligent Systems (2024)
 
 # Awards 🥇
-Merit Student, University Chinese Academy of Sciences (2024)
-
-Outstanding Graduate of Beijing (2023)
-
-Outstanding Graduate of Beijing Institute of Technology (2023)
-
+Merit Student, University Chinese Academy of Sciences (2024)  
+Outstanding Graduate of Beijing (2023)  
+Outstanding Graduate of Beijing Institute of Technology (2023)  
 Merit Student, Beijing Institute of Technology, China (2019-2023)  
-
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=n&d=B4pcRctk7LC4tMlq7eSF64f39agvMj_jYK3FP7QqJdc'></script>
