@@ -83,6 +83,4 @@ Outstanding Graduate of Beijing (2023)
 Outstanding Graduate of Beijing Institute of Technology (2023)
 Merit Student, Beijing Institute of Technology, China (2019-2023)  
 
-<a href="https://info.flagcounter.com/hNd6"><img src="https://s05.flagcounter.com/map/hNd6/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=353&t=tt&d=mGyP2nM9Iiu7frojJe4AMduspbYOo7-StVIGO8tOa6A&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=B4pcRctk7LC4tMlq7eSF64f39agvMj_jYK3FP7QqJdc'></script>
