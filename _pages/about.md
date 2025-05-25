@@ -14,7 +14,7 @@ I am **Minzheng Wang**, a second-year Ph.D student at the [MAIS, Institute of Au
 
 
 # Research 🔍
-I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Social Agent, 2) LLM Role-play, and 3) LLM-based RL.**
+I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Social Agent, 2) LLM Role-play,** and **3) LLM-based RL.** I'm open to discussing potential partnerships and collaboration. Please feel free to reach out if you're interested in working together. 
 
 # News 📰
 [2025.05] Got two papers accepted by **ACL 2025** , congrats to all co-authors🎉!  
@@ -25,14 +25,14 @@ I am broadly interested in natural language processing and large language models
 [2024.07] Got one papers accepted by **COLM 2024** , congrats to all co-authors🎉! 
 [2024.04] Joined the **[Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en)**, mentored by [Xinghua Zhang](https://xinghuazhang.top/).  
 [2024.02] **(Oral)** Got one paper accepted by **COLING 2024**, congrats to all co-authors🎉!  
-[2023.09] Joined the **MAIS, Institute of Automation, Chinese Academy of Sciences** as a Ph.D. student, supervised by [Wenji Mao](https://people.ucas.edu.cn/~maowenji).
-[2023.06] Graduated from **Beijing Institute of Technology** with a bachelor's degree in Automation 🎓. 
+[2023.09] Joined the **MAIS, Institute of Automation, Chinese Academy of Sciences** as a Ph.D. student, supervised by [Wenji Mao](https://people.ucas.edu.cn/~maowenji).  
+[2023.06] Graduated from **Beijing Institute of Technology** with a bachelor's degree in Automation 🎓.  
 [2022.09] Joined the **[Wenge Group](https://www.wenge.com/)**, mentored by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ).  
 
 # Publications 📑
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=glV21ZsAAAAJ).  
 
-### First Author
+## First Author 1️⃣
 **Adaptive Thinking via Mode Policy Optimization for Social Language Agents**  
 **<ins>Minzheng Wang</ins>**, Yongbin Li, Haobo Wang, Xinghua Zhang, Nan Xu, Bingli Wu, Fei Huang, Haiyang Yu, Wenji Mao  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2505.02156) [[code]](https://github.com/MozerWang/AMPO)
@@ -49,7 +49,7 @@ Proceedings of EMNLP 2024 (Oral). [[link]](https://aclanthology.org/2024.emnlp-m
 **<ins>Minzheng Wang</ins>**, Nan Xu, Jiahao Zhao, Yin Luo, Wenji Mao  
 Proceedings of COLING 2024 (Oral). [[link]](https://aclanthology.org/2024.lrec-main.1149/) [[code]](https://github.com/MozerWang/promISe)
 
-### Other Papers
+## Other Papers 🤝
 **ImaRA: An Imaginative Frame Augmented Method for Low-Resource Multimodal Metaphor Detection and Explanation**  
 Yuan Tian, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao  
 Findings of NAACL 2025. [[link]](https://aclanthology.org/2025.findings-naacl.220/)
