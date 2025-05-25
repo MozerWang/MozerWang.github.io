@@ -1,49 +1,88 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!-- ## About Me -->
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am **Minzheng Wang**, a second-year Ph.D student at the [MAIS, Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), supervised by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ) and [Wenji Mao](https://people.ucas.edu.cn/~maowenji). Before that, I received my bachelor's degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2023. I have also spent time at the [Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en) as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Research 🔍
+I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Social Agent, 2) LLM Role-play, and 3) LLM-based RL.**
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# News 📰
+[2025.05] Got two papers accepted by **ACL 2025** 🎉, congrats to all co-authors🎉!  
+[2025.04] My paper has been cited **100 times** on Google Scholar , a small milestone for me!  
+[2025.01] Got one papers accepted by **NAACL 2025** 🎉, congrats to all co-authors🎉! 
+[2025.01] Got one papers accepted by **AAAI 2025** 🎉, congrats to all co-authors🎉!   
+[2024.09] **(Oral)** Got one paper accepted by **EMNLP 2024**, congrats to all co-authors🎉!
+[2024.07] Got one papers accepted by **COLM 2024** 🎉, congrats to all co-authors🎉! 
+[2024.04] Joined the **[Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en)**, mentored by [Xinghua Zhang](https://xinghuazhang.top/).  
+[2024.02] **(Oral)** Got one paper accepted by **COLING 2024**, congrats to all co-authors🎉!  
+[2023.09] Joined the **MAIS, Institute of Automation, Chinese Academy of Sciences** as a Ph.D. student, supervised by [Wenji Mao].
+[2023.06] Graduated from **Beijing Institute of Technology** with a bachelor's degree in Automation 🎓. 
+[2022.09] Joined the **[Wenge Group](https://www.wenge.com/)**, mentored by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ).  
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# Publications 📑
+Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=glV21ZsAAAAJ).  
 
-**Markdown generator**
+### First Author
+**Adaptive Thinking via Mode Policy Optimization for Social Language Agents**  
+**<ins>Minzheng Wang</ins>**, Yongbin Li, Haobo Wang, Xinghua Zhang, Nan Xu, Bingli Wu, Fei Huang, Haiyang Yu, Wenji Mao  
+Arxiv 2025. [[link]](https://arxiv.org/abs/2505.02156) [[code]](https://github.com/MozerWang/AMPO)
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling**
+**<ins>Minzheng Wang</ins>**, Xinghua Zhang, Kun Chen, Nan Xu, Haiyang Yu, Fei Huang, Wenji Mao, Yongbin Li
+Findings of ACL 2025. [[link]](https://arxiv.org/abs/2412.04905) [[code]](https://github.com/MozerWang/DEMO)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA**  
+**<ins>Minzheng Wang</ins>**, Longze Chen, Cheng Fu, Shengyi Liao, Xinghua Zhang, Bingli Wu, Haiyang Yu, Nan Xu, Lei Zhang, Run Luo, Yunshui Li, Min Yang, Fei Huang, Yongbin Li
+Proceedings of EMNLP 2024 (Oral). [[link]](https://aclanthology.org/2024.emnlp-main.322/) [[code]](https://github.com/MozerWang/Loong)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**PromISe: Releasing the Capabilities of LLMs with Prompt Introspective Search**
+**<ins>Minzheng Wang</ins>**, Nan Xu, Jiahao Zhao, Yin Luo, Wenji Mao
+Proceedings of COLING 2024 (Oral). [[link]](https://aclanthology.org/2024.lrec-main.1149/) [[code]](https://github.com/MozerWang/promISe)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### Other Papers
+**ImaRA: An Imaginative Frame Augmented Method for Low-Resource Multimodal Metaphor Detection and Explanation**
+Yuan Tian, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao
+Findings of NAACL 2025. [[link]](https://aclanthology.org/2025.findings-naacl.220/)
+
+**Enhancing Adversarial Robustness of LLMs with Analytic Hierarchy Process**
+Jiahao Zhao, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao
+Proceedings of COLM 2024. [[link]](https://openreview.net/forum?id=DMUGTMWrKZ#discussion)
+
+**Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs**
+Lei Zhang, Yunshui Li, Jiaming Li, Xiaobo Xia, Jiaxi Yang, Run Luo, **<ins>Minzheng Wang</ins>**, Longze Chen, Junhao Liu, Min Yang
+Proceedings of AAAI 2025. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/34782) [[code]](https://github.com/Hambaobao/HCP-Coder)
+
+**The imperative of conversation analysis in the era of llms: A survey of tasks, techniques, and trends**
+Xinghua Zhang, Haiyang Yu, Yongbin Li, **<ins>Minzheng Wang</ins>**, Longze Chen, Fei Huang
+Arxiv 2024. [[link]](https://arxiv.org/abs/2409.14195)
+
+**Mmevol: Empowering multimodal large language models with evol-instruct**
+Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, **<ins>Minzheng Wang</ins>**, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li
+Findings of ACL 2025. [[link]](https://arxiv.org/abs/2409.05840) [[code]](https://github.com/RainBowLuoCS/MMEvol)
+
+**Yayi-uie: A chat-enhanced instruction tuning framework for universal information extraction**
+Xinglin Xiao, Yijie Wang, Nan Xu, Yuqi Wang, Hanxuan Yang, **<ins>Minzheng Wang</ins>**, Yin Luo, Lei Wang, Wenji Mao, Daniel Zeng
+Arxiv 2023. [[link]](https://arxiv.org/abs/2312.15548)
+ 
+# Services 🎙️
+Reviewer for ACL ARR, NLPCC, IEEE Intelligent Systems
+
+# Awards 🥇
+Merit Student, University Chinese Academy of Sciences (2024)
+Outstanding Graduate of Beijing (2023)
+Outstanding Graduate of Beijing Institute of Technology (2023)
+Merit Student, Beijing Institute of Technology, China (2019-2023)  
+
+<a href="https://info.flagcounter.com/hNd6"><img src="https://s05.flagcounter.com/map/hNd6/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=353&t=tt&d=mGyP2nM9Iiu7frojJe4AMduspbYOo7-StVIGO8tOa6A&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
