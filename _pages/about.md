@@ -25,7 +25,7 @@ I am broadly interested in natural language processing and large language models
 [2024.07] Got one papers accepted by **COLM 2024** , congrats to all co-authors🎉! 
 [2024.04] Joined the **[Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en)**, mentored by [Xinghua Zhang](https://xinghuazhang.top/).  
 [2024.02] **(Oral)** Got one paper accepted by **COLING 2024**, congrats to all co-authors🎉!  
-[2023.09] Joined the **MAIS, Institute of Automation, Chinese Academy of Sciences** as a Ph.D. student, supervised by [Wenji Mao].
+[2023.09] Joined the **MAIS, Institute of Automation, Chinese Academy of Sciences** as a Ph.D. student, supervised by [Wenji Mao](https://people.ucas.edu.cn/~maowenji).
 [2023.06] Graduated from **Beijing Institute of Technology** with a bachelor's degree in Automation 🎓. 
 [2022.09] Joined the **[Wenge Group](https://www.wenge.com/)**, mentored by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ).  
 
@@ -79,8 +79,11 @@ Reviewer for ACL ARR, NLPCC, IEEE Intelligent Systems
 
 # Awards 🥇
 Merit Student, University Chinese Academy of Sciences (2024)
+
 Outstanding Graduate of Beijing (2023)
+
 Outstanding Graduate of Beijing Institute of Technology (2023)
+
 Merit Student, Beijing Institute of Technology, China (2019-2023)  
 
 
