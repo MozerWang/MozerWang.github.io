@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am **Minzheng Wang**, a second-year Ph.D student at the [MAIS, Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), supervised by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ) and [Wenji Mao](https://people.ucas.edu.cn/~maowenji). Before that, I received my bachelor's degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2023. I have also spent time at the [Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en) as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).
+I am **Minzheng Wang**, a second-year Ph.D student at [MAIS, Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), supervised by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ) and [Wenji Mao](https://people.ucas.edu.cn/~maowenji). Before that, I received my bachelor's degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2023. I have also spent time at the [Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en) as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).
 
 
 # Research 🔍
@@ -31,7 +31,6 @@ I am broadly interested in natural language processing and large language models
 
 # Publications 📑
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=glV21ZsAAAAJ).  
-
 ## First Author 1️⃣
 **Adaptive Thinking via Mode Policy Optimization for Social Language Agents**  
 **<ins>Minzheng Wang</ins>**, Yongbin Li, Haobo Wang, Xinghua Zhang, Nan Xu, Bingli Wu, Fei Huang, Haiyang Yu, Wenji Mao  
@@ -48,7 +47,6 @@ Proceedings of EMNLP 2024 (Oral). [[link]](https://aclanthology.org/2024.emnlp-m
 **PromISe: Releasing the Capabilities of LLMs with Prompt Introspective Search**  
 **<ins>Minzheng Wang</ins>**, Nan Xu, Jiahao Zhao, Yin Luo, Wenji Mao  
 Proceedings of COLING 2024 (Oral). [[link]](https://aclanthology.org/2024.lrec-main.1149/) [[code]](https://github.com/MozerWang/promISe)
-
 ## Other Papers 🤝
 **ImaRA: An Imaginative Frame Augmented Method for Low-Resource Multimodal Metaphor Detection and Explanation**  
 Yuan Tian, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao  
