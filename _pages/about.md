@@ -13,17 +13,17 @@ I am **Minzheng Wang**, a second-year Ph.D student at [MAIS, Institute of Automa
 # Research 🔍
 I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Social Agent, 2) LLM Role-play,** and **3) LLM-based RL.** I'm open to discussing potential partnerships and collaboration. Please feel free to reach out if you're interested in working together.  
 # News 📰
-[2025.05] Got two papers accepted by **ACL 2025** , congrats to all co-authors🎉!  
-[2025.04] My paper has been cited **100 times** on Google Scholar , a small milestone for me!  
-[2025.01] Got one papers accepted by **NAACL 2025** , congrats to all co-authors🎉!  
-[2025.01] Got one papers accepted by **AAAI 2025** , congrats to all co-authors🎉!  
+[2025.05] Got two papers accepted by **ACL 2025**, congrats to all co-authors🎉!  
+[2025.04] My paper has been cited **100 times** on Google Scholar, a small milestone for me!  
+[2025.01] Got one papers accepted by **NAACL 2025**, congrats to all co-authors🎉!  
+[2025.01] Got one papers accepted by **AAAI 2025**, congrats to all co-authors🎉!  
 [2024.09] **(Oral)** Got one paper accepted by **EMNLP 2024**, congrats to all co-authors🎉!  
-[2024.07] Got one papers accepted by **COLM 2024** , congrats to all co-authors🎉!  
-[2024.04] Joined the **[Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en)**, mentored by [Xinghua Zhang](https://xinghuazhang.top/).  
+[2024.07] Got one papers accepted by **COLM 2024**, congrats to all co-authors🎉!  
+[2024.04] Joined the **[Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en)** as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).  
 [2024.02] **(Oral)** Got one paper accepted by **COLING 2024**, congrats to all co-authors🎉!  
-[2023.09] Joined the **MAIS, Institute of Automation, Chinese Academy of Sciences** as a Ph.D. student, supervised by [Wenji Mao](https://people.ucas.edu.cn/~maowenji).  
+[2023.09] Joined the **MAIS, Institute of Automation, Chinese Academy of Sciences** as a Ph.D student, supervised by [Wenji Mao](https://people.ucas.edu.cn/~maowenji).  
 [2023.06] Graduated from **Beijing Institute of Technology** with a bachelor's degree in Automation 🎓.  
-[2022.09] Joined the **[Wenge Group](https://www.wenge.com/)**, mentored by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ).  
+[2022.09] Joined the **[Wenge Group](https://www.wenge.com/)** as a Research Intern, mentored by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ).  
 # Publications 📑
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=glV21ZsAAAAJ).  
 ## First Author 1️⃣
