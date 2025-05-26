@@ -19,10 +19,10 @@ I am broadly interested in natural language processing and large language models
 # News 📰
 [2025.05] Got two papers accepted by **ACL 2025** , congrats to all co-authors🎉!  
 [2025.04] My paper has been cited **100 times** on Google Scholar , a small milestone for me!  
-[2025.01] Got one papers accepted by **NAACL 2025** , congrats to all co-authors🎉! 
-[2025.01] Got one papers accepted by **AAAI 2025** , congrats to all co-authors🎉!   
-[2024.09] **(Oral)** Got one paper accepted by **EMNLP 2024**, congrats to all co-authors🎉!
-[2024.07] Got one papers accepted by **COLM 2024** , congrats to all co-authors🎉! 
+[2025.01] Got one papers accepted by **NAACL 2025** , congrats to all co-authors🎉!  
+[2025.01] Got one papers accepted by **AAAI 2025** , congrats to all co-authors🎉!  
+[2024.09] **(Oral)** Got one paper accepted by **EMNLP 2024**, congrats to all co-authors🎉!  
+[2024.07] Got one papers accepted by **COLM 2024** , congrats to all co-authors🎉!  
 [2024.04] Joined the **[Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en)**, mentored by [Xinghua Zhang](https://xinghuazhang.top/).  
 [2024.02] **(Oral)** Got one paper accepted by **COLING 2024**, congrats to all co-authors🎉!  
 [2023.09] Joined the **MAIS, Institute of Automation, Chinese Academy of Sciences** as a Ph.D. student, supervised by [Wenji Mao](https://people.ucas.edu.cn/~maowenji).  
