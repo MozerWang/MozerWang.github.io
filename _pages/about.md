@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 <span class='anchor' id='about-me'></span>
-I am **Minzheng Wang**, a second-year Ph.D student at [MAIS, Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), supervised by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ) and [Wenji Mao](https://people.ucas.edu.cn/~maowenji). Before that, I received my bachelor's degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2023. I have also spent time at the [Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en) as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).
+I am **Minzheng Wang**, a second-year Ph.D student at [MAIS, Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), supervised by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ) and [Wenji Mao](https://people.ucas.edu.cn/~maowenji). Before that, I received my bachelor's degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2023. I have also spent time at the [Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en) as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).  
 
 # Research 🔍
-I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Social Agent, 2) LLM Role-play,** and **3) LLM-based RL.** I'm open to discussing potential partnerships and collaboration. Please feel free to reach out if you're interested in working together. 
+I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Social Agent, 2) LLM Role-play,** and **3) LLM-based RL.** I'm open to discussing potential partnerships and collaboration. Please feel free to reach out if you're interested in working together.  
 # News 📰
 [2025.05] Got two papers accepted by **ACL 2025** , congrats to all co-authors🎉!  
 [2025.04] My paper has been cited **100 times** on Google Scholar , a small milestone for me!  
@@ -65,9 +65,13 @@ Findings of ACL 2025. [[link]](https://arxiv.org/abs/2409.05840) [[code]](https:
 
 **Yayi-uie: A chat-enhanced instruction tuning framework for universal information extraction**  
 Xinglin Xiao, Yijie Wang, Nan Xu, Yuqi Wang, Hanxuan Yang, **<ins>Minzheng Wang</ins>**, Yin Luo, Lei Wang, Wenji Mao, Daniel Zeng  
-Arxiv 2023. [[link]](https://arxiv.org/abs/2312.15548)
+Arxiv 2023. [[link]](https://arxiv.org/abs/2312.15548) [[code]](https://github.com/wenge-research/YAYI-UIE) [[model]](https://huggingface.co/wenge-research/yayi-uie)
+
+**Yayi 2: Multilingual open-source large language models**  
+Wenge Group  
+Arxiv 2023. [[link]](https://arxiv.org/abs/2312.14862) [[code]](https://github.com/wenge-research/YAYI2) [[model]](https://huggingface.co/wenge-research/yayi2-30b)
 # Services 🎙️
-Reviewer for ACL ARR (2025), NLPCC (2025), IEEE Intelligent Systems (2024)
+Reviewer for ACL ARR (2025), NLPCC (2025), IEEE Intelligent Systems (2024)  
 # Awards 🥇
 Merit Student, University Chinese Academy of Sciences (2024)  
 Outstanding Graduate of Beijing (2023)  
