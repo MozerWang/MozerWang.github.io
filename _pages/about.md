@@ -7,15 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<!-- ## About Me -->
-
+<span class='anchor' id='about-me'></span>
 I am **Minzheng Wang**, a second-year Ph.D student at [MAIS, Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), supervised by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ) and [Wenji Mao](https://people.ucas.edu.cn/~maowenji). Before that, I received my bachelor's degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2023. I have also spent time at the [Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en) as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).
-
 
 # Research 🔍
 I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Social Agent, 2) LLM Role-play,** and **3) LLM-based RL.** I'm open to discussing potential partnerships and collaboration. Please feel free to reach out if you're interested in working together. 
-
 # News 📰
 [2025.05] Got two papers accepted by **ACL 2025** , congrats to all co-authors🎉!  
 [2025.04] My paper has been cited **100 times** on Google Scholar , a small milestone for me!  
@@ -28,7 +24,6 @@ I am broadly interested in natural language processing and large language models
 [2023.09] Joined the **MAIS, Institute of Automation, Chinese Academy of Sciences** as a Ph.D. student, supervised by [Wenji Mao](https://people.ucas.edu.cn/~maowenji).  
 [2023.06] Graduated from **Beijing Institute of Technology** with a bachelor's degree in Automation 🎓.  
 [2022.09] Joined the **[Wenge Group](https://www.wenge.com/)**, mentored by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ).  
-
 # Publications 📑
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=glV21ZsAAAAJ).  
 ## First Author 1️⃣
@@ -71,14 +66,11 @@ Findings of ACL 2025. [[link]](https://arxiv.org/abs/2409.05840) [[code]](https:
 **Yayi-uie: A chat-enhanced instruction tuning framework for universal information extraction**  
 Xinglin Xiao, Yijie Wang, Nan Xu, Yuqi Wang, Hanxuan Yang, **<ins>Minzheng Wang</ins>**, Yin Luo, Lei Wang, Wenji Mao, Daniel Zeng  
 Arxiv 2023. [[link]](https://arxiv.org/abs/2312.15548)
- 
 # Services 🎙️
 Reviewer for ACL ARR (2025), NLPCC (2025), IEEE Intelligent Systems (2024)
-
 # Awards 🥇
 Merit Student, University Chinese Academy of Sciences (2024)  
 Outstanding Graduate of Beijing (2023)  
 Outstanding Graduate of Beijing Institute of Technology (2023)  
 Merit Student, Beijing Institute of Technology, China (2019-2023)  
-
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=B4pcRctk7LC4tMlq7eSF64f39agvMj_jYK3FP7QqJdc'></script>
