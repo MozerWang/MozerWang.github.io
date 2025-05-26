@@ -70,7 +70,7 @@ Arxiv 2023. [[link]](https://arxiv.org/abs/2312.15548) [[code]](https://github.c
 **Yayi 2: Multilingual open-source large language models**  
 Wenge Group  
 Arxiv 2023. [[link]](https://arxiv.org/abs/2312.14862) [[code]](https://github.com/wenge-research/YAYI2) [[model]](https://huggingface.co/wenge-research/yayi2-30b)
-# Services 🎙️
+# Services 💬
 Reviewer for ACL ARR (2025), NLPCC (2025), IEEE Intelligent Systems (2024)  
 # Awards 🥇
 Merit Student, University Chinese Academy of Sciences (2024)  
