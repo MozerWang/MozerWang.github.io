@@ -76,7 +76,7 @@ Reviewer for ACL ARR (2025), NLPCC (2025), IEEE Intelligent Systems (2024)
 Merit Student, University Chinese Academy of Sciences (2024)  
 Outstanding Graduate of Beijing (2023)  
 Outstanding Graduate of Beijing Institute of Technology (2023)  
-Merit Student, Beijing Institute of Technology, China (2019-2023)
+Merit Student, Beijing Institute of Technology (2019-2023)
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=B4pcRctk7LC4tMlq7eSF64f39agvMj_jYK3FP7QqJdc'></script>
