@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 <span class='anchor' id='about-me'></span>
-I am **Minzheng Wang**, a second-year Ph.D student at [MAIS, Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), supervised by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ) and [Wenji Mao](https://people.ucas.edu.cn/~maowenji). Before that, I received my bachelor's degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2023. I have also spent time at the [Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en) as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).  
+I am **Minzheng Wang**, a third-year Ph.D student at [MAIS, Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), supervised by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ) and [Wenji Mao](https://people.ucas.edu.cn/~maowenji). Before that, I received my bachelor's degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2023. I am now a research intern at the [miHoYo AI Team](https://www.mihoyo.com/). Before that, I have also spent time at the [Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en) as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).
 
 # Research 🔍
 I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Language Agent, 2) Socially Intelligent Agent,** and **3) LLM-based RL.** I'm open to discussing potential partnerships and collaboration. Please feel free to reach out if you're interested in working together.  
 # News 📰
+[2026.01] Got one papers accepted by **ICLR 2026**, congrats to all co-authors🎉!  
+[2025.09] Got one papers accepted by **EMNLP 2025**, congrats to all co-authors🎉!  
 [2025.05] Got two papers accepted by **ACL 2025**, congrats to all co-authors🎉!  
 [2025.04] My paper has been cited **100 times** on Google Scholar, a small milestone for me!  
 [2025.01] Got one papers accepted by **NAACL 2025**, congrats to all co-authors🎉!  
@@ -27,22 +29,32 @@ I am broadly interested in natural language processing and large language models
 # Publications 📑
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=glV21ZsAAAAJ).  
 ## First Author 1️⃣
-**Adaptive Thinking via Mode Policy Optimization for Social Language Agents**  
+*(\* indicates equal contribution)*
+
+**Adaptive Social Learning via Mode Policy Optimization for Language Agents**  
 **<ins>Minzheng Wang</ins>**, Yongbin Li, Haobo Wang, Xinghua Zhang, Nan Xu, Bingli Wu, Fei Huang, Haiyang Yu, Wenji Mao  
-Arxiv 2025. [[link]](https://arxiv.org/abs/2505.02156) [[code]](https://github.com/MozerWang/AMPO)
+Proceedings of ICLR 2026. [[link]](https://arxiv.org/abs/2505.02156) [[code]](https://github.com/MozerWang/AMPO)
+
+**Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**  
+Yuqiao Tan*, **<ins>Minzheng Wang\*</ins>**, Shizhu He, Huanxuan Liao, Chengfeng Zhao, Qiunan Lu, Tian Liang, Jun Zhao, Kang Liu  
+Under Review. [[link]](https://arxiv.org/abs/2512.19673) [[code]](https://github.com/Trae1ounG/BuPO)
+
+**Breaking the Impasse: Dual-Scale Evolutionary Policy Training for Social Language Agents**  
+**<ins>Minzheng Wang</ins>**, Run Luo, Yanbo Wang, Zichen Liu, Yuqiao Tan, Tao Tan, Longze Chen, Jiaming Li, Nan Xu, Lu Wang, Wenji Mao  
+Under Review.
 
 **DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling**  
 **<ins>Minzheng Wang</ins>**, Xinghua Zhang, Kun Chen, Nan Xu, Haiyang Yu, Fei Huang, Wenji Mao, Yongbin Li  
 Findings of ACL 2025. [[link]](https://arxiv.org/abs/2412.04905) [[code]](https://github.com/MozerWang/DEMO)
 
 **Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA**  
-**<ins>Minzheng Wang</ins>**, Longze Chen, Cheng Fu, Shengyi Liao, Xinghua Zhang, Bingli Wu, Haiyang Yu, Nan Xu, Lei Zhang, Run Luo, Yunshui Li, Min Yang, Fei Huang, Yongbin Li  
+**<ins>Minzheng Wang\*</ins>**, Longze Chen*, Cheng Fu, Shengyi Liao, Xinghua Zhang, Bingli Wu, Haiyang Yu, Nan Xu, Lei Zhang, Run Luo, Yunshui Li, Min Yang, Fei Huang, Yongbin Li  
 Proceedings of EMNLP 2024 (Oral). [[link]](https://aclanthology.org/2024.emnlp-main.322/) [[code]](https://github.com/MozerWang/Loong)
 
 **PromISe: Releasing the Capabilities of LLMs with Prompt Introspective Search**  
 **<ins>Minzheng Wang</ins>**, Nan Xu, Jiahao Zhao, Yin Luo, Wenji Mao  
 Proceedings of COLING 2024 (Oral). [[link]](https://aclanthology.org/2024.lrec-main.1149/) [[code]](https://github.com/MozerWang/promISe)
-## Other Papers 🤝
+## Co-authored Papers 🤝
 **ImaRA: An Imaginative Frame Augmented Method for Low-Resource Multimodal Metaphor Detection and Explanation**  
 Yuan Tian, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao  
 Findings of NAACL 2025. [[link]](https://aclanthology.org/2025.findings-naacl.220/)
@@ -50,6 +62,10 @@ Findings of NAACL 2025. [[link]](https://aclanthology.org/2025.findings-naacl.22
 **Enhancing Adversarial Robustness of LLMs with Analytic Hierarchy Process**  
 Jiahao Zhao, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao  
 Proceedings of COLM 2024. [[link]](https://openreview.net/forum?id=DMUGTMWrKZ#discussion)
+
+**EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models**  
+Tao Zou, Xinghua Zhang, Haiyang Yu, **<ins>Minzheng Wang</ins>**, Fei Huang, Yongbin Li   
+Proceedings of EMNLP 2025. [[link]](https://openreview.net/forum?id=DMUGTMWrKZ#discussion)
 
 **Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs**  
 Lei Zhang, Yunshui Li, Jiaming Li, Xiaobo Xia, Jiaxi Yang, Run Luo, **<ins>Minzheng Wang</ins>**, Longze Chen, Junhao Liu, Min Yang  
@@ -71,7 +87,7 @@ Arxiv 2023. [[link]](https://arxiv.org/abs/2312.15548) [[code]](https://github.c
 Wenge Group  
 Arxiv 2023. [[link]](https://arxiv.org/abs/2312.14862) [[code]](https://github.com/wenge-research/YAYI2) [[model]](https://huggingface.co/wenge-research/yayi2-30b)
 # Services 💬
-Reviewer for ACL ARR (2025), NLPCC (2025), IEEE Intelligent Systems (2024)  
+Reviewer for ICLR (2026), ACL (2026, 2025), EMNLP (2025), AAAI (2025), NLPCC (2025), IEEE Intelligent Systems (2024)  
 # Awards 🥇
 Merit Student, University Chinese Academy of Sciences (2024)  
 Outstanding Graduate of Beijing (2023)  
