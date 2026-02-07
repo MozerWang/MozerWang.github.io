@@ -33,7 +33,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 **Adaptive Social Learning via Mode Policy Optimization for Language Agents**  
 **<ins>Minzheng Wang</ins>**, Yongbin Li, Haobo Wang, Xinghua Zhang, Nan Xu, Bingli Wu, Fei Huang, Haiyang Yu, Wenji Mao  
-Proceedings of ICLR 2026. [[link]](https://arxiv.org/abs/2505.02156) [[code]](https://github.com/MozerWang/AMPO)
+Proceedings of ICLR 2026. (Scores: 8 8 8 6) [[link]](https://arxiv.org/abs/2505.02156) [[code]](https://github.com/MozerWang/AMPO)
 
 **Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**  
 Yuqiao Tan*, **<ins>Minzheng Wang\*</ins>**, Shizhu He, Huanxuan Liao, Chengfeng Zhao, Qiunan Lu, Tian Liang, Jun Zhao, Kang Liu  
