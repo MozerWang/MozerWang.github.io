@@ -13,6 +13,7 @@ I am **Minzheng Wang**, a third-year Ph.D student at [MAIS, Institute of Automat
 # Research 🔍
 I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Language Agent, 2) Socially Intelligent Agent,** and **3) LLM-based RL.** I'm open to discussing potential partnerships and collaboration. Please feel free to reach out if you're interested in working together.  
 # News 📰
+[2026.04] Got one papers accepted by **ACL 2026**, congrats to all co-authors🎉!
 [2026.01] Got one papers accepted by **ICLR 2026**, congrats to all co-authors🎉!  
 [2025.09] Got one papers accepted by **EMNLP 2025**, congrats to all co-authors🎉!  
 [2025.05] Got two papers accepted by **ACL 2025**, congrats to all co-authors🎉!  
@@ -35,16 +36,12 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 **<ins>Minzheng Wang</ins>**, Yongbin Li, Haobo Wang, Xinghua Zhang, Nan Xu, Bingli Wu, Fei Huang, Haiyang Yu, Wenji Mao  
 Proceedings of ICLR 2026. (Scores: 8 8 8 6) [[link]](https://arxiv.org/abs/2505.02156) [[code]](https://github.com/MozerWang/AMPO)
 
-**Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**  
-Yuqiao Tan*, **<ins>Minzheng Wang\*</ins>**, Shizhu He, Huanxuan Liao, Chengfeng Zhao, Qiunan Lu, Tian Liang, Jun Zhao, Kang Liu  
-Under Review. [[link]](https://arxiv.org/abs/2512.19673) [[code]](https://github.com/Trae1ounG/BuPO)
-
 **Breaking the Impasse: Dual-Scale Evolutionary Policy Training for Social Language Agents**  
 **<ins>Minzheng Wang</ins>**, Run Luo, Yanbo Wang, Zichen Liu, Yuqiao Tan, Tao Tan, Longze Chen, Jiaming Li, Nan Xu, Lu Wang, Wenji Mao  
-Under Review.
+Proceeding of ACL 2026.
 
 **DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling**  
-**<ins>Minzheng Wang</ins>**, Xinghua Zhang, Kun Chen, Nan Xu, Haiyang Yu, Fei Huang, Wenji Mao, Yongbin Li  
+**<ins>Minzhe**ng Wang</ins>**, Xinghua Zhang, Kun Chen, Nan Xu, Haiyang Yu, Fei Huang, Wenji Mao, Yongbin Li  
 Findings of ACL 2025. [[link]](https://arxiv.org/abs/2412.04905) [[code]](https://github.com/MozerWang/DEMO)
 
 **Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA**  
@@ -54,6 +51,15 @@ Proceedings of EMNLP 2024 (Oral). [[link]](https://aclanthology.org/2024.emnlp-m
 **PromISe: Releasing the Capabilities of LLMs with Prompt Introspective Search**  
 **<ins>Minzheng Wang</ins>**, Nan Xu, Jiahao Zhao, Yin Luo, Wenji Mao  
 Proceedings of COLING 2024 (Oral). [[link]](https://aclanthology.org/2024.lrec-main.1149/) [[code]](https://github.com/MozerWang/promISe)
+
+**Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**  
+Yuqiao Tan*, **<ins>Minzheng Wang\*</ins>**, Shizhu He, Huanxuan Liao, Chengfeng Zhao, Qiunan Lu, Tian Liang, Jun Zhao, Kang Liu  
+Under Review. [[link]](https://arxiv.org/abs/2512.19673) [[code]](https://github.com/Trae1ounG/BuPO)
+
+**From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space**
+Yuqiao Tan*, **<ins>Minzheng Wang\*</ins>**, Bo Liu, Zichen Liu, Tian Liang, Shizhu He, Jun Zhao, Kang Liu  
+Under Review. [[link]](https://arxiv.org/abs/2604.14142) [[code]](https://github.com/Trae1ounG/Pretrain_Space_RLVR)
+
 ## Co-authored Papers 🤝
 **ImaRA: An Imaginative Frame Augmented Method for Low-Resource Multimodal Metaphor Detection and Explanation**  
 Yuan Tian, **<ins>Minzheng Wang</ins>**, Nan Xu, Wenji Mao  
