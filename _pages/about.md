@@ -13,7 +13,7 @@ I am **Minzheng Wang**, a third-year Ph.D student at [MAIS, Institute of Automat
 # Research 🔍
 I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Language Agent, 2) Socially Intelligent Agent,** and **3) LLM-based RL.** I'm open to discussing potential partnerships and collaboration. Please feel free to reach out if you're interested in working together.  
 # News 📰
-[2026.04] Got one papers accepted by **ACL 2026**, congrats to all co-authors🎉!
+[2026.04] Got one papers accepted by **ACL 2026**, congrats to all co-authors🎉!  
 [2026.01] Got one papers accepted by **ICLR 2026**, congrats to all co-authors🎉!  
 [2025.09] Got one papers accepted by **EMNLP 2025**, congrats to all co-authors🎉!  
 [2025.05] Got two papers accepted by **ACL 2025**, congrats to all co-authors🎉!  
@@ -37,7 +37,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 Proceedings of ICLR 2026. (Scores: 8 8 8 6) [[link]](https://arxiv.org/abs/2505.02156) [[code]](https://github.com/MozerWang/AMPO)
 
 **Breaking the Impasse: Dual-Scale Evolutionary Policy Training for Social Language Agents**  
-**<ins>Minzheng Wang</ins>**, Run Luo, Yanbo Wang, Zichen Liu, Yuqiao Tan, Tao Tan, Longze Chen, Jiaming Li, Nan Xu, Lu Wang, Wenji Mao  
+**<ins>Minzheng Wang</ins>**, Run Luo, Yanbo Wang, Zichen Liu, Yuqiao Tan, Tao Tan, Nan Xu, Lu Wang, Wenji Mao  
 Proceeding of ACL 2026.
 
 **DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling**  
