@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span class='anchor' id='about-me'></span>
-I am **Minzheng Wang**, a third-year Ph.D student at [MAIS, Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), supervised by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ) and [Wenji Mao](https://people.ucas.edu.cn/~maowenji). Before that, I received my bachelor's degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2023. I am now building Xiaomi MiMo(https://mimo.xiaomi.com/), focusing on Harness and Agentic RL. Before that, I was a research intern at the [Lumi Pretrain Team, miHoYo](https://www.mihoyo.com/), mentored by [Hao Sun](https://scholar.google.com/citations?user=aU0XTgUAAAAJ&hl=en) and [Yinhe Zheng](https://scholar.google.com/citations?user=FhU-R7kAAAAJ&hl=en). I have also spent time at the [Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en) as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).
+I am **Minzheng Wang**, a third-year Ph.D student at [MAIS, Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), supervised by [Nan Xu](https://scholar.google.com/citations?user=oJcp__wAAAAJ) and [Wenji Mao](https://people.ucas.edu.cn/~maowenji). Before that, I received my bachelor's degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2023. I am now building [Xiaomi MiMo](https://mimo.xiaomi.com/), focusing on Harness and Agentic RL. Before that, I was a research intern at the [Lumi Pretrain Team, miHoYo](https://www.mihoyo.com/), mentored by [Hao Sun](https://scholar.google.com/citations?user=aU0XTgUAAAAJ&hl=en) and [Yinhe Zheng](https://scholar.google.com/citations?user=FhU-R7kAAAAJ&hl=en). I have also spent time at the [Tongyi Lab, Alibaba Group](https://scholar.google.com/citations?user=xF5VrokAAAAJ&hl=en) as a Research Intern, mentored by [Xinghua Zhang](https://xinghuazhang.top/).
 
 # Research 🔍
 I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Language Agent, 2) Socially Intelligent Agent,** and **3) LLM-based RL.** I'm open to discussing potential partnerships and collaboration. Please feel free to reach out if you're interested in working together.  
@@ -74,7 +74,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
   Yuqiao Tan\*, **<ins>Minzheng Wang\*</ins>**, Bo Liu, Zichen Liu, Tian Liang, Shizhu He, Jun Zhao, Kang Liu  
   Under Review.
 
-  ## Co-authored Papers 🤝
+## Co-authored Papers 🤝
   **[Mitigating the Safety-utility Trade-off in LLM Alignment via Adaptive Safe Context 
   Learning](https://arxiv.org/abs/2602.13562)**  
   Yanbo Wang, **<ins>Minzheng Wang</ins>**, Jian Liang, Lu Wang, Yongcan Yu, Ran He  
