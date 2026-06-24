@@ -13,7 +13,7 @@ I am **Minzheng Wang**, a third-year Ph.D student at [MAIS, Institute of Automat
 # Research 🔍
 I am broadly interested in natural language processing and large language models. My current research focuses on **1) LLM-based Language Agent, 2) Socially Intelligent Agent,** and **3) LLM-based RL.** I'm open to discussing potential partnerships and collaboration. Please feel free to reach out if you're interested in working together.  
 # News 📰
-[2026.05] Joined the **[Xiaomi Mimo](https://mimo.xiaomi.com/)**, feeling incredibly honored and excited.  
+[2026.05] Joined the **[Xiaomi MiMo](https://mimo.xiaomi.com/)**, feeling incredibly honored and excited.  
 [2026.05] Got two papers accepted by **ICML 2026**, congrats to all co-authors🎉!  
 [2026.04] Got one papers accepted by **ACL 2026**, congrats to all co-authors🎉!  
 [2026.01] Got one papers accepted by **ICLR 2026**, congrats to all co-authors🎉!  
@@ -42,7 +42,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
   Proceedings of ICLR 2026. (Scores: 8 8 8 6， Top 0.3% in Paper Copilot)
 
   **[Breaking the Impasse: Dual-Scale Evolutionary Policy Training for Social Language 
-  Agents](https://arxiv.org/abs/2605.08721)**  
+  Agents](https://aclanthology.org/2026.acl-long.2096/)**  
   **<ins>Minzheng Wang</ins>**, Run Luo, Yanbo Wang, Zichen Liu, Yuqiao Tan, Tao Tan, Nan Xu, Lu Wang, Wenji 
   Mao  
   Proceedings of ACL 2026.
@@ -131,4 +131,4 @@ Outstanding Graduate of Beijing Institute of Technology (2023)
 Merit Student, Beijing Institute of Technology (2019-2023)
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=B4pcRctk7LC4tMlq7eSF64f39agvMj_jYK3FP7QqJdc'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=J2uOBMw--qEfI8I2skudh2VyZ7OrmbxhEUVJbq8ko1k'></script>
